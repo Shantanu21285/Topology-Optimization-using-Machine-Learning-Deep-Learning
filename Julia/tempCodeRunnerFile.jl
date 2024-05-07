@@ -1,0 +1,1 @@
+@show obj(r.minimizer)
